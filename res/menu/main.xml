@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">  
+  <group android:checkableBehavior="single">  
+     <item android:id="@+id/driving"   
+       android:title="@string/driving" >  
+     </item>  
+     <item android:id="@+id/walking"   
+       android:title="@string/walking"
+       android:checked="true">  
+     </item>  
+     <item android:id="@+id/bicycling"  
+        android:title="@string/bicycling">  
+     </item>  
+     <item android:id="@+id/transit"  
+        android:title="@string/transit">  
+     </item>  
+   </group>  
+</menu> 

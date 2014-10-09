@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Car Locator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="park">Park</string>
+	<string name="unpark">UnPark</string>
+	<string name="findcar">Find Car</string>
+	<string name="driving">Driving</string>
+	<string name="walking">Walking</string>
+	<string name="bicycling">Bicycling</string>
+	<string name="transit">Public transit</string>
+	<string name="debuggable">true</string>
+</resources>
